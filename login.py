@@ -3,4 +3,4 @@ a=11
 b=2
 c=33
 print('hello guishu')
-
+num3=1000
